@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title>Ranch Seasoning</title>
+<link rel="stylesheet" type="text/css" href="../styles/menustyle.css">
+</head>
+<body>
+<a href="../index.html">Home</a>
+<h1>Ranch Seasoning</h1>
+<a href="https://barefeetinthekitchen.com/homemade-ranch-salad-dressing/">Inspired by</a>
+
+<p>This is a good seasoning for dressings, dips, and cheese balls</p>
+<p>By Barefeet in the Kitchen Prep:5 mins   Ranch Seasoning Mix</p>
+<h2>Ingredients</h2>
+<ul>
+  <li>1 teaspoon dried dill weed</li>
+  <li>1/2 teaspoon dried parsley</li>
+  <li>1/2 teaspoon dried chives</li>
+  <li>1/4 teaspoon onion powder</li>
+  <li>1/2 teaspoon garlic powder</li>
+  <li>1/4 teaspoon fine sea salt (be very careful)</li>
+  <li>1/8 teaspoon finely cracked pepper</li>
+  <li>1 - 3 teaspoons of freshly squeezed lemon juice or white vinegar to taste (optional)</li>
+</ul>
+<h2>Directions</h2>
+<h3>Step 1</h3>
+<p>Mix it up and add it to what ever you need it for.</p>
+</body>
+</html>
